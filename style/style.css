@@ -57,6 +57,10 @@ body {
 	font-size: 16px;
 }
 
+i {
+	margin-left: 5px;
+}
+
 .pogoda li:hover {
 	opacity: 1;
 }
