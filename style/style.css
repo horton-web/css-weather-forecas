@@ -1,0 +1,57 @@
+* {
+	transition: all .1s ease-in;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
+.wrap {
+	width: 100%;
+	height: 100%;
+	font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+	background-color: #3399cc;
+	border: 10px solid #2b81ac;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+h1 {
+
+}
+
+.pogoda {
+	font-size: 0;
+	width: 500px;
+	height: 400px;
+	background-color: #fff;
+	margin: 0 auto;
+
+}
+
+.pogoda li {
+	display: inline-block;
+	border: 1px solid white;
+	font-size: 14px;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+.fifty {
+	width: 50%;
+	height: 25%;
+}
+
+.twenty-five {
+	width: 25%;
+	height: 25%;
+}
+
+.hundred {
+	width: 100%;
+	height: 25%;
+	background-color: #666699;
+}
