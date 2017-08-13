@@ -57,6 +57,13 @@ body {
 	font-size: 16px;
 }
 
+<<<<<<< HEAD
+=======
+i {
+	margin-left: 5px;
+}
+
+>>>>>>> gh-pages
 .pogoda li:hover {
 	opacity: 1;
 }
